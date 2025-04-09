@@ -3,7 +3,9 @@
 <p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs  </a>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV3OXdlc2s4azY2cXFtczBiZmZhcW1rY2hzNXZyaTFnZDBuOGdncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore  </a>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUyN3hycDdsOWd3andleGd2ZGVvc2oyZTcyYWJpdHk5ZTRudXM4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cwnFaDohbyOKfuAKf8/giphy.gif" width="30" style="vertical-align: middle; margin-top: 5px;"> 
+  <span style="display: inline-block; position: relative; top: 5px;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUyN3hycDdsOWd3andleGd2ZGVvc2oyZTcyYWJpdHk5ZTRudXM4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cwnFaDohbyOKfuAKf8/giphy.gif" width="30" style="vertical-align: middle; margin-top: 5px;"> 
+  </span>
 </em></p>
 
 
