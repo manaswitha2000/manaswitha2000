@@ -1,6 +1,6 @@
 <h2> Hello, I'm Manaswitha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs</a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhajJieDRyZDkxaWNqbW43Z284eDg5dzY2c21sdmsxMnB6Zm9hdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="40"></br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> 
+<p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs </a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV3OXdlc2s4azY2cXFtczBiZmZhcW1rY2hzNXZyaTFnZDBuOGdncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> 
 </em></p>
 
 
