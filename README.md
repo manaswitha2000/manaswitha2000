@@ -1,7 +1,7 @@
 <h2> Hello, I'm Manaswitha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs  </a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV3OXdlc2s4azY2cXFtczBiZmZhcW1rY2hzNXZyaTFnZDBuOGdncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore  </a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVnbjZqcGs0Y2xpMGVrdWNieHE4MDE3d3lhdHh2MzlhZmNyYnJtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRZNn3TO4cY82Z8g3r/giphy.gif" width="50"> 
+</br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore  </a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVnbjZqcGs0Y2xpMGVrdWNieHE4MDE3d3lhdHh2MzlhZmNyYnJtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRZNn3TO4cY82Z8g3r/giphy.gif" width="80"> 
 </em></p>
 
 
