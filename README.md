@@ -4,13 +4,19 @@
 </em></p>
 
 
-[![Linkedin: manaswitha](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaswitha-reddy-kauluri/)](https://www.linkedin.com/in/manaswitha-reddy-kauluri/)
+[![Linkedin: manaswitha](https://img.shields.io/badge/--manaswitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaswitha-reddy-kauluri/)](https://www.linkedin.com/in/manaswitha-reddy-kauluri/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 💻 Currently working as a **Software Engineering Analyst** at Goldman Sachs  
+- 🛠️ Experienced with **Java, Spring Boot, React.js, Next.js, Kafka, MongoDB, Oracle, AWS S3**
+- 🔍 Former intern turned full-time hire at Goldman Sachs; contributed as a **Seasonal & Summer Analyst**
+- 🔬 Published research in **IEEE EMBC 2023** and **NSysS 2023** in fields of Neural Networks and IoT security
+- ⚙️ Explored cybersecurity via the **O.MG Cable** project, creating payloads for Wi-Fi penetration testing
+- 🛒 Built a price comparison website with **CI/CD pipelines** using Jenkins & Docker
+- 🤖 Created a troll question detector using **NLP and Machine Learning** for Reddit
+- 🏅 Finalist at **Google Girl Hackathon 2022**
 
 ---
 
