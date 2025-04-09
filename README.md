@@ -1,6 +1,6 @@
 <h2> Hello, I'm Manaswitha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> 
+<p><em>Software Enginner at <a href="https://www.goldmansachs.com/">Goldman Sachs</a><img src="https://giphy.com/stickers/atriumart-quack-meetquack-meet-2DMN31jEeBLVJQGXz6" width="40"></br>Graduate of <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> 
 </em></p>
 
 
