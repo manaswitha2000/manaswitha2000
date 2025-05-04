@@ -11,7 +11,7 @@
 - 💻 Currently working as a **Software Engineering Analyst** at Goldman Sachs  
 - 🛠️ Experienced with **Java, Spring Boot, React.js, Next.js, Kafka, MongoDB, Oracle, AWS S3**
 - 🔍 Former intern turned full-time hire at Goldman Sachs; contributed as a **Seasonal & Summer Analyst**
-- 🔬 Published research in **IEEE EMBC 2023** and **NSysS 2023** in fields of Neural Networks and IoT security
+- 🔬 Published research papers in **IEEE EMBC 2023** and **NSysS 2023** in fields of Neural Networks and IoT security
 - ⚙️ Explored cybersecurity via the **O.MG Cable** project, creating payloads for Wi-Fi penetration testing
 - 🛒 Built a price comparison website with **CI/CD pipelines** using Jenkins & Docker
 - 🤖 Created a troll question detector using **NLP and Machine Learning** for Reddit
