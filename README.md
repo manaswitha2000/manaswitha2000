@@ -6,7 +6,7 @@
 [![Linkedin: manaswitha](https://img.shields.io/badge/-manaswitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaswitha-reddy-kauluri/)](https://www.linkedin.com/in/manaswitha-reddy-kauluri/)
 
 
-### <img src="https://giphy.com/stickers/rice-fingerguns-ricebun-XygjTu9F7IRj3lijJ7" width="50"> more about me...  
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU3ZDl0a2h2cjd2azU1aDcybHl1aG5zZGkzeTByMXJ1ZHpibDBscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XygjTu9F7IRj3lijJ7/giphy.gif" width="50"> more about me...  
 
 - 💻 Currently working as a **Software Engineering Analyst** at Goldman Sachs  
 - 🛠️ Experienced with **Java, Spring Boot, React.js, Next.js, Kafka, MongoDB, Oracle, AWS S3**
