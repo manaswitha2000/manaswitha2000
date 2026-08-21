@@ -1,5 +1,3 @@
-⭐️ From [@Manaswitha](https://github.com/manaswitha2000)
-
 <h2>Hello, I'm Manaswitha Reddy <img                                          
   src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"              
   width="50"></h2>                                                              
