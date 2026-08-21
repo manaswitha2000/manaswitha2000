@@ -40,10 +40,10 @@
 
   ### 🛠️  Tech Stack
 
-  <p align="left">
+  <p align="left">                                                              
     <img src="https://skillicons.dev/icons?i=go,java,python,spring,react,nextjs,
-  kafka,mongodb,postgres,aws,docker,kubernetes,git,linux&perline=7" />          
-  </p>
+  kafka,mongodb,postgres,aws,docker,kubernetes,git,linux" />                    
+  </p>    
                                                                                 
   **Languages & Frameworks:** Go, Java, Python, C++, JavaScript, TypeScript,  
   Spring Boot/Batch, React.js, Next.js
