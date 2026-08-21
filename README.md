@@ -17,7 +17,6 @@
   ECE, AI/ML <img                                                               
   src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em></p>                                                                                                                         
-  ___
   
   [![LinkedIn](https://img.shields.io/badge/-manaswitha--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manaswitha-reddy-kauluri/) 
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/manaswitha2014/)                             
